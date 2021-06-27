@@ -16,7 +16,7 @@ class HelloWorld extends Specification {
 
     def setupSpec() {
         println("setupSpec()")
-        list.add(8)
+        list.add(9)
     }
 
     def 'hello world'() {
